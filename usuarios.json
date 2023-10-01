@@ -1,0 +1,42 @@
+[
+{"type":"header","version":"4.9.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"viagens"},
+{"type":"table","name":"usuarios","database":"viagens","data":
+[
+{"id":"2","nome":"Maria Santos","email":"maria@example.com","data_nascimento":"1985-08-22","rua":"Rua B","numero":" 456","cidade":" Cidade Y","estado":" Estado Z"},
+{"id":"3","nome":"Pedro Souza","email":"pedro@example.com","data_nascimento":"1998-02-10","rua":"Avenida C","numero":" 789","cidade":" Cidade X","estado":" Estado Y"},
+{"id":"4","nome":"João Maria","email":"joaomaria@example.com","data_nascimento":"1990-01-01","rua":"Rua A","numero":" 123","cidade":" 123","estado":" 123"},
+{"id":"6","nome":"Usuario sem reservas","email":"semreservar@teste.com","data_nascimento":"1990-10-10","rua":"Rua","numero":"123","cidade":"cidade","estado":"estado"},
+{"id":"8","nome":"João Silva","email":"joao.silva@example.com","data_nascimento":"1990-01-01","rua":"Rua A","numero":null,"cidade":null,"estado":null},
+{"id":"9","nome":"Maria Santos","email":"maria.santos@example.com","data_nascimento":"1992-03-15","rua":"Rua B","numero":null,"cidade":null,"estado":null},
+{"id":"10","nome":"Pedro Almeida","email":"pedro.almeida@example.com","data_nascimento":"1985-07-10","rua":"Rua C","numero":null,"cidade":null,"estado":null},
+{"id":"11","nome":"Ana Oliveira","email":"ana.oliveira@example.com","data_nascimento":"1998-12-25","rua":"Rua D","numero":null,"cidade":null,"estado":null},
+{"id":"12","nome":"Carlos Pereira","email":"carlos.pereira@example.com","data_nascimento":"1991-06-05","rua":"Rua E","numero":null,"cidade":null,"estado":null},
+{"id":"13","nome":"Laura Mendes","email":"laura.mendes@example.com","data_nascimento":"1994-09-12","rua":"Rua F","numero":null,"cidade":null,"estado":null},
+{"id":"14","nome":"Fernando Santos","email":"fernando.santos@example.com","data_nascimento":"1988-02-20","rua":"Rua G","numero":null,"cidade":null,"estado":null},
+{"id":"15","nome":"Mariana Costa","email":"mariana.costa@example.com","data_nascimento":"1997-11-30","rua":"Rua H","numero":null,"cidade":null,"estado":null},
+{"id":"16","nome":"Ricardo Rodrigues","email":"ricardo.rodrigues@example.com","data_nascimento":"1993-04-18","rua":"Rua I","numero":null,"cidade":null,"estado":null},
+{"id":"17","nome":"Camila Alves","email":"camila.alves@example.com","data_nascimento":"1989-08-08","rua":"Rua J","numero":null,"cidade":null,"estado":null},
+{"id":"18","nome":"Bruno Carvalho","email":"bruno.carvalho@example.com","data_nascimento":"1995-03-25","rua":"Rua K","numero":null,"cidade":null,"estado":null},
+{"id":"19","nome":"Amanda Silva","email":"amanda.silva@example.com","data_nascimento":"1996-12-02","rua":"Rua L","numero":null,"cidade":null,"estado":null},
+{"id":"20","nome":"Paulo Mendonça","email":"paulo.mendonca@example.com","data_nascimento":"1999-07-20","rua":"Rua M","numero":null,"cidade":null,"estado":null},
+{"id":"21","nome":"Larissa Oliveira","email":"larissa.oliveira@example.com","data_nascimento":"1987-10-15","rua":"Rua N","numero":null,"cidade":null,"estado":null},
+{"id":"22","nome":"Fernanda Sousa","email":"fernanda.sousa@example.com","data_nascimento":"1992-05-08","rua":"Rua O","numero":null,"cidade":null,"estado":null},
+{"id":"23","nome":"Gustavo Santos","email":"gustavo.santos@example.com","data_nascimento":"1993-09-18","rua":"Rua P","numero":null,"cidade":null,"estado":null},
+{"id":"24","nome":"Helena Costa","email":"helena.costa@example.com","data_nascimento":"1998-02-22","rua":"Rua Q","numero":null,"cidade":null,"estado":null},
+{"id":"25","nome":"Diego Almeida","email":"diego.almeida@example.com","data_nascimento":"1991-11-27","rua":"Rua R","numero":null,"cidade":null,"estado":null},
+{"id":"26","nome":"Juliana Lima","email":"juliana.lima@example.com","data_nascimento":"1997-04-05","rua":"Rua S","numero":null,"cidade":null,"estado":null},
+{"id":"27","nome":"Rafaela Silva","email":"rafaela.silva@example.com","data_nascimento":"1996-01-10","rua":"Rua T","numero":null,"cidade":null,"estado":null},
+{"id":"28","nome":"Lucas Pereira","email":"lucas.pereira@example.com","data_nascimento":"1986-08-30","rua":"Rua U","numero":null,"cidade":null,"estado":null},
+{"id":"29","nome":"Fábio Rodrigues","email":"fabio.rodrigues@example.com","data_nascimento":"1989-03-12","rua":"Rua V","numero":null,"cidade":null,"estado":null},
+{"id":"30","nome":"Isabela Santos","email":"isabela.santos@example.com","data_nascimento":"1994-12-07","rua":"Rua W","numero":null,"cidade":null,"estado":null},
+{"id":"31","nome":"André Alves","email":"andre.alves@example.com","data_nascimento":"1995-09-28","rua":"Rua X","numero":null,"cidade":null,"estado":null},
+{"id":"32","nome":"Clara Carvalho","email":"clara.carvalho@example.com","data_nascimento":"1990-02-15","rua":"Rua Y","numero":null,"cidade":null,"estado":null},
+{"id":"33","nome":"Roberto Mendes","email":"roberto.mendes@example.com","data_nascimento":"1992-07-21","rua":"Rua Z","numero":null,"cidade":null,"estado":null},
+{"id":"34","nome":"Mariana Oliveira","email":"mariana.oliveira@example.com","data_nascimento":"1997-05-03","rua":"Av. A","numero":null,"cidade":null,"estado":null},
+{"id":"35","nome":"Gustavo Costa","email":"gustavo.costa@example.com","data_nascimento":"1998-11-16","rua":"Av. B","numero":null,"cidade":null,"estado":null},
+{"id":"36","nome":"Lara Sousa","email":"lara.sousa@example.com","data_nascimento":"1993-06-09","rua":"Av. C","numero":null,"cidade":null,"estado":null},
+{"id":"37","nome":"Pedro Lima","email":"pedro.lima@example.com","data_nascimento":"1996-09-27","rua":"Av. D","numero":null,"cidade":null,"estado":null}
+]
+}
+]
